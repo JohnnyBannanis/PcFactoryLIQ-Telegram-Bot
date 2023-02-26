@@ -1,0 +1,8 @@
+# python
+*.pyc
+*.pyo
+*.swp
+__pycache__
+
+#API KEY and BASE_URL
+/private.py
